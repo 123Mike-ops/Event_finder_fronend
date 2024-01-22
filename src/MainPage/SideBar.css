@@ -1,0 +1,10 @@
+.side_bars{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    background-color: rgb(155, 236, 247);
+    margin-top: 30px;
+    box-shadow: 5px 5px 24px rgb(243, 223, 213);
+}
+.auth_links{
+    text-decoration:none;
+}

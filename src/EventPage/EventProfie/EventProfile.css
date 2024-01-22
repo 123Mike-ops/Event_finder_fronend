@@ -1,0 +1,24 @@
+.event_disc{
+    display:flex;
+    margin-left: 0px;
+
+}
+.side_bar{
+    margin-left: 10px;
+}
+.event_image{
+    margin-left: 30px;
+    margin-top:100px;
+    width:600px;
+}
+.event_desco{
+    margin-top:100px;
+    width:500px;
+    height:400px;
+    
+    box-shadow: 4px 5px 10px rgb(154, 211, 248);
+}
+.disc_content{
+    margin-left: 20px;
+    padding:10px;
+}

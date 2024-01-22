@@ -1,0 +1,15 @@
+.booking_view{
+    display:flex;
+    
+      
+
+}
+.booking_pannel{
+    margin-left:70px;
+    margin-top:30px;
+    height: 300px;
+    display:flex;
+}
+.side_bar{
+    width:200px;
+}

@@ -1,0 +1,32 @@
+
+
+
+.button{
+    margin-top: 10px;
+    margin-left: 100px;
+}  
+.side_bar{
+   
+    width:200px;
+    margin-left:5px;
+    margin-top: 20px;
+} 
+.all_element{
+    width:100%;
+    display: flex;
+}
+.events_list{
+   
+  
+    padding:10px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.search_bar { 
+    margin-left: 1000px;
+    height: 30px;
+}
+.allof_all{
+    width:100%;
+}
+

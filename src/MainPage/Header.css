@@ -1,0 +1,25 @@
+.header_top{
+ margin-left: 0px;
+    display:flex;
+    background-color: rgba(48, 141, 228, 0.87);
+    color:white;
+    height: 100px;
+    box-shadow: 5px 5px 20px rgb(109, 162, 231);
+    border-radius: 20px;
+
+}
+.logo{
+    border-radius: 5px;
+}
+.navigation_nav{
+    margin-left: 450px;
+    margin-top:30px;
+    color:white;
+    
+}
+.tool_bar{
+    margin-left:200px;
+    margin-top: 20px;
+    color:white;    
+}
+

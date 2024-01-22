@@ -1,0 +1,40 @@
+.logo{
+
+    margin-top: 70px;
+    margin-left: 620px;
+}
+.form_control{
+    
+    margin-left: 550px;
+    margin-top: 20px;
+    align-items: center;
+    width:700px;
+ 
+    color:black;
+    background-color: white;
+    border-radius: 30px;
+
+
+}
+.signup_link
+{
+    text-decoration: none;
+    color:orange;
+}
+.login_but{
+ width:400px;margin-left: 250px;
+}
+.label_user{
+    margin-left:750px;
+}
+.input_user{
+    margin-left:150px;
+    
+    width:350px;
+
+    
+   
+    
+}
+
+

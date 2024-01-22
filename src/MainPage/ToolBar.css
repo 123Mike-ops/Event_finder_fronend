@@ -1,0 +1,29 @@
+.not_icon{
+    margin-left: 20px;
+}
+.per_icon{
+    margin-left: 20px;
+    color:white;
+
+ 
+}
+.tool_bar{
+    display: flex;
+    margin-right: 3px;
+}
+.label_icon{
+    margin-left: 9px;
+    color:white;
+
+}
+.log_button{
+    text-decoration :none;
+    background-color: rgb(5, 67, 71);
+    color:white;
+    border-radius: 10px;
+    font-size: 10;
+
+}
+.logout_label{
+    font-size: small;
+}

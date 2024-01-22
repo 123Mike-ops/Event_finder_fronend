@@ -1,0 +1,13 @@
+.event_view{
+    display:flex;
+}
+.event_road{
+    margin-left:50px;
+    margin-top:50px;
+    height: 300px;
+    display:flex;
+}
+.side_bar{
+    margin-top:45px;
+    width:200px;
+}
